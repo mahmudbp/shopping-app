@@ -1,10 +1,4 @@
-const asdf = 'dgf'
-const asdf = 'fgffdghdsgghjh'
+const asdf = "dgf";
 
-
-
-
-
-
-asdf = "sdfg"
+asdf = "sdfg";
 gfd = 3;
